@@ -14,4 +14,6 @@
 //    requires com.example.lib10;
 //}
 
-module lib {}
+module lib {
+    requires lib.b;
+}
