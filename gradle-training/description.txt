@@ -1,0 +1,1 @@
+Example gradle project with two libraries and an application

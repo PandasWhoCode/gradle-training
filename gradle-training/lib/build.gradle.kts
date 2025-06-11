@@ -2,3 +2,7 @@
 plugins {
     id("org.hiero.gradle.module.library")
 }
+
+testModuleInfo {
+    requires("org.junit.jupiter.api")
+}
